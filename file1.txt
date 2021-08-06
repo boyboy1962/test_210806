@@ -4,3 +4,4 @@ Hello.
 아무 내용이나 썼습니다.
 내용을 추가합니다.
 I can speak English.
+지금 추가 사항은 .gitignore에 저장되에있음
